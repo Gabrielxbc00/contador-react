@@ -1,8 +1,44 @@
-# React + Vite
+# Contador App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um simples aplicativo de contador desenvolvido em React usando Vite.
 
-Currently, two official plugins are available:
+## Pré-requisitos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Certifique-se de ter o Node.js e o npm instalados em sua máquina.
+
+- Node.js: [Download](https://nodejs.org/)
+- npm: [Download](https://www.npmjs.com/get-npm)
+
+## Como usar
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+cd seu-repositorio
+
+npm install
+
+npm run dev
+```
+
+## Funcionalidades
+
+* Contador que pode ser aumentado e diminuído.
+
+## Personalização
+
+Sinta-se à vontade para personalizar e expandir o aplicativo conforme necessário.
+
+## Contribuindo
+
+1. Faça um fork do projeto.
+2. Crie uma branch para sua feature: git checkout -b feature-nova.
+3. Faça commit das suas alterações: git commit -m 'Adiciona nova feature'.
+4. Faça push para a branch: git push origin feature-nova.
+5. Abra um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT
