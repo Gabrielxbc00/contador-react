@@ -15,7 +15,7 @@ export default function MeuContador() {
 
   return (
     <div className="container">
-      <h1>Meu contador:</h1>
+      <h1>Meu contador</h1>
       <h3>{contador}</h3>
       <button className={styles.myButton} onClick={aumentar}>Aumentar</button>
       <button className={styles.myButton} onClick={diminuir}>Diminuir</button>
