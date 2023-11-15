@@ -29,7 +29,7 @@ npm run dev
 
 ## Demonstração Online
 
-Confira a demonstração online do Meu Contador App em [https://contador-react-navy.vercel.app/](https://contador-react-navy.vercel.app/){:target="_blank"}.
+Confira a demonstração online do Meu Contador App [aqui](https://contador-react-navy.vercel.app/).
 
 ## Personalização
 
